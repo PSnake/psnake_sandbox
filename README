@@ -1,0 +1,15 @@
+=== PSnake's Sandbox ===
+
+== Current Sandbox Projects ==
+
+    1. YbEd - Editor for the future Yabasic 3
+
+== 1. YbEd ==
+
+    YbEd is an editor aimed at being as closely tied as possible to Yabasic.
+For example, it will tie in with the interpreter (messages, breakpoints, etc).
+    It's current objectives are:
+        - show all messages (error, info, etc) inside the editor
+        - set breakpoints in the program
+        - show all debug information avaiable inside the editor
+        - create projects
