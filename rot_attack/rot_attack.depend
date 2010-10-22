@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1287673871 source:/home/psnake/Development/psnake_sandbox/rot_attack/src/main.cpp
+	<allegro.h>
+
+1287688205 source:/home/psnake/Development/psnake_sandbox/rot_attack/src/launcher.cpp
+	"launcher.h"
+
+1287687922 /home/psnake/Development/psnake_sandbox/rot_attack/src/launcher.h
+	<allegro.h>
+
